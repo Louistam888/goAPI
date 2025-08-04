@@ -1,4 +1,4 @@
-module GoAPi
+module goapi
 go 1.24.5
 
 require (
